@@ -1,3 +1,5 @@
+// Hello World App Barnabas Nomo
+
 #include <pebble.h>
 
 Window *window;
